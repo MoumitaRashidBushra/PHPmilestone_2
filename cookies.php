@@ -2,6 +2,6 @@
 
 <?php
 
-setcookie("user", "alice", time() + 3600, "/");
+setcookie("user", "mou", time() + 3600, "/");
 
 ?>
